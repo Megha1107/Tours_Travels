@@ -1,0 +1,26 @@
+header {
+    background-color: #333; /* Set the background color for the header */
+  }
+  
+  nav ul {
+    list-style-type: none; /* Remove the bullet points */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    display: inline-block; /* Display the list items horizontally */
+  }
+  
+  nav a {
+    display: block;
+    color: #fff; /* Set the text color */
+    text-align: center;
+    padding: 14px 16px; /* Set the padding around the links */
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #111; /* Change the background color on hover */
+  }
